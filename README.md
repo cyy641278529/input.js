@@ -42,6 +42,10 @@ requestAnimationFrame(animate);
    - input.keyclick(name, downupSpan)
    - input.keyclicks(name, clickCount, downupSpan, clickSpan)
 
+## Appium sample
+
+- [Touchtest](docs/touchtest.md)
+
 ## License
 
 MIT © 2017 Johnny Wu
