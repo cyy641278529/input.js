@@ -42,6 +42,12 @@ requestAnimationFrame(animate);
    - input.keyclick(name, downupSpan)
    - input.keyclicks(name, clickCount, downupSpan, clickSpan)
 
+## selenium sample run
+
+```bash
+npm auto-test
+```
+
 ## License
 
 MIT © 2017 Johnny Wu

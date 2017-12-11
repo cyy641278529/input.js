@@ -14,7 +14,8 @@
     "dev": "rollup -w -c ./script/rollup.config.js",
     "start": "electron ./examples",
     "server": "preview -p 8002 -e examples",
-    "test": "electron-node-tap ./test/*.spec.js --renderer"
+    "test": "electron-node-tap ./test/*.spec.js --renderer",
+    "auto-test": "node examples/auto-input.js"
   },
   "repository": {
     "type": "git",
