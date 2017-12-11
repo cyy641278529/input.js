@@ -42,7 +42,19 @@ requestAnimationFrame(animate);
    - input.keyclick(name, downupSpan)
    - input.keyclicks(name, clickCount, downupSpan, clickSpan)
 
-## selenium sample run
+## selenium sample
+
+Download browser's drivers and add them to environment path
+
+e.g. chromedriver: 
+
+http://chromedriver.storage.googleapis.com/index.html 
+
+taobao mirror:
+
+https://npm.taobao.org/mirrors/chromedriver/
+
+then run:
 
 ```bash
 npm auto-test
